@@ -6,6 +6,18 @@
 Plant diseases cause low agricultural productivity. Plant diseases  are challenging to control and identify by the majority of farmers. In  order  to reduce future losses, early disease diagnosis is necessary. This study presents a deep learning approach for detecting tomato leaf  diseases  using Convolutional Neural Networks (CNNs). The proposed method involves preprocessing the tomato leaf images, followed by training the CNN model to classify them into one of ten categories: healthy, yellow leaf curl virus (YLCV), bacterial spot (BS), early blight (EB), leaf mold (LM), Septoria leaf spot (SLS) target spot (TS), two spotted spider mite spot(TSSMS), mosaic virus(MV) and late blight (LB). The model was trained using a dataset of 16021 tomato leaf images. The training was conducted for 2 epochs, 5 epochs and the accuracy achieved was 64%, 89% respectively.  These results demonstrate the effectiveness of the proposed approach in detecting tomato leaf diseases, and the performance improves with increasing epochs. The automated approach can aid in the early detection and prevention  of tomato diseases, which can ultimately help in improving the yield and quality of tomato crops.
 
 
+## Table of Contents
+
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Dataset](#dataset)
+- [Training the Model](#training-the-model)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+
 
 ## Features
 
