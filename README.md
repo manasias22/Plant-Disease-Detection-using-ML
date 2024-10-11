@@ -1,4 +1,4 @@
-# Plant-disease-detection-system
+# Plant Disease Detection using ML
 
 ![Screenshot 2024-08-18 165549](https://github.com/user-attachments/assets/3887396f-43b4-4764-8c34-e2c7556959e2)
 
