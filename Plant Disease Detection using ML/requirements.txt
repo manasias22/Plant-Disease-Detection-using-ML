@@ -1,0 +1,9 @@
+python = 3.10
+tensorflow = 2.16.2
+numpy
+pandas
+pillow
+
+software:
+jupyter/colab/vscode
+
